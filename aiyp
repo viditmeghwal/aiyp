@@ -1,0 +1,6 @@
+# On your machine:
+git clone https://github.com/viditmeghwal/aiyp.git
+cd aiyp
+git checkout -b claude/agency-pocket-platform-5aKDN
+# I'll then paste file contents for you to save, OR
+# scaffold from scratch using my plan
